@@ -27,7 +27,15 @@ Mint Classics management would like to:
 The challenge is determining which products and warehouses contribute the most business value while minimizing operational risks.
 
 ---
+## 📌 Project Highlights
 
+- Analyzed 110 products across 4 warehouses
+- Evaluated inventory value, warehouse productivity and revenue contribution
+- Built an interactive 2-page Power BI dashboard
+- Developed SQL analyses using CTEs and Window Functions
+- Identified slow-moving inventory and warehouse optimization opportunities
+
+  ---
 ## 📂 Dataset
 
 Source:
